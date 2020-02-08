@@ -39,7 +39,8 @@ This app is seamless and each search is simple.  The user simply needs to type i
 
 ### Screenshots demonstrating the app's functionality 
 
-
+![image](https://user-images.githubusercontent.com/49250754/74077335-dcd38c00-49d3-11ea-9e17-c74c7f4dded3.png)
+![image](https://user-images.githubusercontent.com/49250754/74077354-12787500-49d4-11ea-9988-6ddafe33d9d4.png)
 
 ### Technologies Used 
 * Axios

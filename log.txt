@@ -54,3 +54,81 @@ Plot of the movie: A boy stands on a station platform as a train is about to lea
 Language of the movie: English, Mohawk
 Year the movie came out: 2009
 IMDB Rating of the movie: 7.8
+Title of the movie: Erin Brockovich
+Year the movie came out: 2000
+IMDB Rating of the movie: 7.3
+Rotten Tomatoes Rating of the movie: 84%
+Language of the movie: English
+Plot of the movie: An unemployed single mother becomes a legal assistant and almost single-handedly brings down a California power company accused of polluting a city's water supply.
+Actors in the movie: Julia Roberts, David Brisbin, Dawn Didawick, Albert Finney
+Venue name: The Colosseum at Caesars Palace
+Date of event: 02/14/2020
+Date of event: 02/15/2020
+Venue name: The Colosseum at Caesars Palace
+Venue location: Las Vegas, NV
+Venue name: The Colosseum at Caesars Palace
+Venue location: Las Vegas, NV
+Date of event: 02/21/2020
+Venue name: The Colosseum at Caesars Palace
+Venue location: Las Vegas, NV
+Venue name: The Colosseum at Caesars Palace
+Venue location: Las Vegas, NV
+Date of event: 02/26/2020
+Venue name: The Colosseum at Caesars Palace
+Venue location: Las Vegas, NV
+Date of event: 02/19/2020
+Venue name: The Colosseum at Caesars Palace
+Date of event: 02/28/2020
+Venue location: Las Vegas, NV
+Date of event: 02/29/2020
+Venue location: Honolulu, HI
+Date of event: 03/10/2020
+Date of event: 02/22/2020
+Venue name: Neal S Blaisdell Center
+Venue name: The Colosseum at Caesars Palace
+Venue location: Las Vegas, NV
+Venue location: Las Vegas, NV
+Venue name: The Colosseum at Caesars Palace
+Venue location: Las Vegas, NV
+Date of event: 02/14/2020
+Venue name: The Colosseum at Caesars Palace
+Venue location: Las Vegas, NV
+Date of event: 02/15/2020
+Venue name: The Colosseum at Caesars Palace
+Date of event: 02/19/2020
+Venue location: Las Vegas, NV
+Venue name: The Colosseum at Caesars Palace
+Venue location: Las Vegas, NV
+Date of event: 02/22/2020
+Venue name: The Colosseum at Caesars Palace
+Venue location: Las Vegas, NV
+Date of event: 02/26/2020
+Venue name: The Colosseum at Caesars Palace
+Venue location: Las Vegas, NV
+Date of event: 02/28/2020
+Venue name: The Colosseum at Caesars Palace
+Venue location: Las Vegas, NV
+Date of event: 02/29/2020
+Venue name: Neal S Blaisdell Center
+Date of event: 03/10/2020
+Venue location: Honolulu, HI
+Venue location: Las Vegas, NV
+Venue name: The Colosseum at Caesars Palace
+Date of event: 02/21/2020
+Title of the movie: Erin Brockovich
+Year the movie came out: 2000
+IMDB Rating of the movie: 7.3
+Rotten Tomatoes Rating of the movie: 84%
+Language of the movie: English
+Plot of the movie: An unemployed single mother becomes a legal assistant and almost single-handedly brings down a California power company accused of polluting a city's water supply.
+Actors in the movie: Julia Roberts, David Brisbin, Dawn Didawick, Albert Finney
+------
+Track Name: 'I Want It That Way'
+Artist Name: 'Backstreet Boys'
+Preview Link: 'https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=4199af94e09945b28138baf09fc7f971'
+Album Name: 'The Hits--Chapter One'
+------
+Artist Name: 'Eagles'
+Preview Link: 'https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=4199af94e09945b28138baf09fc7f971'
+Track Name: 'Hotel California - 2013 Remaster'
+Album Name: 'Hotel California (2013 Remaster)'
